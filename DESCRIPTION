@@ -1,0 +1,20 @@
+Package: xtsExtra
+Version: 0.0-1
+Date: 2012-05-21
+Title: Supplementary Functionality for xts
+Author: R. Michael Weylandt
+Maintainer: R. Michael Weylandt <michael.weylandt@gmail.com>
+Description: Supplementary functionality that can be used with the
+	xts package. The package also serves as a development platform
+        for the GSoC 2012 xts project, which may eventually end up in
+        the xts package.
+Depends: zoo, xts
+License: GPL-2
+URL: http://r-forge.r-project.org/projects/xts/
+Repository: R-Forge
+Repository/R-Forge/Project: xts
+Repository/R-Forge/Revision: 800
+Repository/R-Forge/DateTimeStamp: 2014-01-07 03:06:39
+Date/Publication: 2014-01-07 03:06:39
+Packaged: 2014-01-07 03:36:08 UTC; rforge
+Built: R 3.0.2; ; 2014-01-07 03:48:11 UTC; windows
